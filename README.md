@@ -5,7 +5,7 @@ A production-grade CI/CD pipeline for a containerized food delivery application 
 This project demonstrates how modern SaaS teams automate deployments to achieve **zero-downtime releases, scalability, and consistency across environments**.
 
 ---
-## 📋 The Challenge
+## 📋 Project Overview
 
 FreshEats, a fast-growing food delivery startup, is rapidly adding new features to its backend services to support menus, pricing updates, and promotions.
 
@@ -76,5 +76,38 @@ food-menu-service/
 - Containerized microservice
 - Traffic is managed through an **Application Load Balancer**
 
+## 🏆 Challenges Solved
+
+- Eliminated manual deployments
+- Configured secure AWS IAM-based CI/CD
+- Fixed ECS networking and security group issues
+- Debugged Docker + AWS ECR authentication flow
+- Implemented automated container deployments via GitHub Actions
+
 ---
 
+## 💡 What I Learned
+In creating this project I learned how to;
+
+✅ Containerize applications using Docker  
+✅ Manage container images with Amazon ECR   
+✅ Deploy serverless containers using Amazon ECS Fargate  
+✅ Expose services securely with an Application Load Balancer  
+✅ Automate deployments using GitHub Actions  
+✅ Validate deployments visually through a frontend UI 
+ 
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+<a href="mailto:knokwaku99@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-KNOKWAKU99%40GMAIL.COM-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<a href="https://www.linkedin.com/in/knosei/">
+<img src="https://img.shields.io/badge/LINKEDIN-KNOSEI%20-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+</p>
+
+---
